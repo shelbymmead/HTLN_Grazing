@@ -16,15 +16,17 @@ Lbs on
 Lbs off
 
 Calculated elements:
-Months = actual days on/30
+
+$Months = \text{actual days on}\div 30$
+
 Ave number of head = (head on + head off)/2
 Ave Wt on = lbs on/head on
 Ave Wt off = lbs off/head off
 Ave Wt = (Ave Wt on + Ave Wt off)/2)
 AUE1 (step 1) = (Ave Wt off – Ave Wt on)/2
 AUE2 (step2) = (AUE1 + Ave Wt on)/1000
-AUMperHead = AUE2*Months
-TotalAUM = Ave number of head*AUMperHead
+$AUMperHead = AUE2 \times Months$
+TotalAUM = Ave number of head * AUMperHead
 Stocking(AUM/Acre) = TotalAUM/Acres
 Stocking(Acres/AUM) = 1/ Stocking(AUM/Acre)
 Total AUY = Total AUM/12
