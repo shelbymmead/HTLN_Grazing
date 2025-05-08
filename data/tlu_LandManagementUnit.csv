@@ -1,0 +1,68 @@
+"LandManUnitID","Acres","PastureName","PastureID","LandManDescription"
+"BP_1",34.05,"Big Pasture","Bi","Big Pasture North"
+"BP_10",569.00,"Big Pasture","Bi","Big Pasture S"
+"BP_11",141.10,"Big Pasture","Bi","Hatchers Corner"
+"BP_2",123.50,"Big Pasture","Bi","Big Pasture North"
+"BP_3",209.80,"Big Pasture","Bi","Big Pasture North"
+"BP_4",481.00,"Big Pasture","Bi","Big Pasture North"
+"BP_5",337.00,"Big Pasture","Bi","Big Pasture North"
+"BP_6",518.00,"Big Pasture","Bi","Big Pasture Middle"
+"BP_7",561.00,"Big Pasture","Bi","big Pasture Middle"
+"BP_8",330.70,"Big Pasture","Bi","Big Pasture Middle (west)"
+"BP_9",519.00,"Big Pasture","Bi","Big Pasture S"
+"Cemetery",76.55,"Cemetary Pasture","Ce","Cemetary N and S (CP 1&2"
+"CH_1",271.00,"Crusher Hill Pasture","CH","Crusher Hill West"
+"CH_2",386.00,"Crusher Hill Pasture","CH","Crusher Hill West Central"
+"CH_3",327.00,"Crusher Hill Pasture","CH","Crusher Hill East "
+"CH_4",365.00,"Crusher Hill Pasture","CH","Crusher Hill East Central"
+"CP_1",63.31,"Cemetary Pasture","Ce","Cemetary N"
+"CP_2",13.24,"Cemetary Pasture","Ce","Cemetary S"
+"ET_1_a",173.00,"East Traps Pasture","ET","North East Traps"
+"ET_2_a",212.00,"East Traps Pasture","ET","Northcentral East Traps"
+"ET_3_a",153.00,"East Traps Pasture","ET","Southcentral East Traps"
+"ET_4_a",107.00,"East Traps Pasture","ET","Southwest East Traps"
+"ET_5",61.00,"East Traps Pasture","ET","Southeast East Traps"
+"HQ_1",36.23,"Headquarters","Hq","Headquarters N"
+"HQ_2",7.00,"Headquarters","Hq","Headquarters W"
+"HQ_3",3.00,"Headquarters","Hq","Headquarters S"
+"HQ_4",5.00,"Headquarters","Hq","Headquarters E"
+"RF_1",36.00,"Restoration Field","NA",
+"RF_10",15.00,"Restoration Field","NA",
+"RF_11",35.00,"Restoration Field","NA","FR_11 on map"
+"RF_12",18.00,"Restoration Field","NA",
+"RF_13",59.00,"Restoration Field","NA",
+"RF_14",103.00,"Restoration Field","NA",
+"RF_15",55.00,"Restoration Field","NA",
+"RF_16",91.00,"Restoration Field","NA",
+"RF_17",28.00,"Restoration Field","NA",
+"RF_18",12.00,"Restoration Field","NA",
+"RF_19",17.00,"Restoration Field","NA",
+"RF_2",24.00,"Restoration Field","NA",
+"RF_20",16.00,"Restoration Field","NA",
+"RF_21",19.00,"Restoration Field","NA",
+"RF_22",14.00,"Restoration Field","NA",
+"RF_23",22.00,"Restoration Field","NA",
+"RF_24",6.00,"Restoration Field","NA",
+"RF_25",2.00,"Restoration Field","NA",
+"RF_3",25.00,"Restoration Field","NA",
+"RF_4",19.00,"Restoration Field","NA",
+"RF_5",15.00,"Restoration Field","NA",
+"RF_6",2.00,"Restoration Field","NA",
+"RF_7",11.00,"Restoration Field","NA",
+"RF_8",59.00,"Restoration Field","NA",
+"RF_9",12.00,"Restoration Field","NA",
+"RP_1",258.00,"Red House Pasture","RH","West Red House"
+"RP_2",515.00,"Red House Pasture","RH","Central Red House"
+"RP_3_a",279.00,"Red House Pasture","RH","red House East"
+"RP_4_a",183.00,"Red House Pasture","RH","Red House East"
+"TS_1",70.00,"Two Section  Pasture","ET","West Central Two Section"
+"TS_2",335.00,"Two Section  Pasture","ET","South Two Section"
+"TS_3",325.00,"Two Section  Pasture","ET","Northwest Two Section"
+"TS_4",559.00,"Two Section  Pasture","ET","Northeast Two Section"
+"WP_1",470.00,"Windmill Pasture","Wi","West Windmill"
+"WP_2_a",600.00,"Windmill Pasture","Wi","Windmill East"
+"WT_1",262.00,"West Traps Pasture","WT","West Traps North  (labeled on map as TW_1"
+"WT_2",24.00,"West Traps Pasture","WT","West Traps North"
+"WT_3_a",57.00,"West Traps Pasture","WT","West Traps West"
+"WT_4_a",54.00,"West Traps Pasture","WT","West Traps South"
+"WT_5_a",36.00,"West Traps Pasture","WT","West Traps South"
