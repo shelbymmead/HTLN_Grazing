@@ -4,32 +4,45 @@ to replicate analysis for those years. However, going forward data can be pulled
 Instructions on running this code can be found.
 
 Data imported from Access database:
-Pasture (unit)
-Grazing Year
-Acres
-In date
-Out date
-Actual days on 
-Head on
-Head off
-Lbs on
+Pasture (unit),
+Grazing Year,
+Acres,
+In date,
+Out date,
+Actual days on ,
+Head on,
+Head off,
+Lbs on, and
 Lbs off
 
 Calculated elements:
 
 $Months = \text{actual days on}\div 30$
 
-Ave number of head = (head on + head off)/2
-Ave Wt on = lbs on/head on
-Ave Wt off = lbs off/head off
-Ave Wt = (Ave Wt on + Ave Wt off)/2)
-AUE1 (step 1) = (Ave Wt off – Ave Wt on)/2
-AUE2 (step2) = (AUE1 + Ave Wt on)/1000
+$\text{Ave number of head} = (\text{head on} + \text{head off}) \div 2$
+
+$\text{Ave Wt on} = \text{lbs on} \div \text{head on}$
+
+$\text{Ave Wt off}= \text{lbs off} \div \text{head off}$
+
+$\text{Ave Wt} = (\text{Ave Wt on} + \text{Ave Wt off}) \div 2$
+
+$\text{AUE1 (step 1)} = (\text{Ave Wt off} – \text{Ave Wt on}) \div 2$
+
+$\text{AUE2 (step2)} = (AUE1 + \text{Ave Wt on}) \div 1000$
+
 $AUMperHead = AUE2 \times Months$
-TotalAUM = Ave number of head * AUMperHead
-Stocking(AUM/Acre) = TotalAUM/Acres
-Stocking(Acres/AUM) = 1/ Stocking(AUM/Acre)
-Total AUY = Total AUM/12
-Acres/AUY= acres/Total AUY
+
+$TotalAUM = \text{Ave number of head} \times AUMperHead$
+
+$Stocking(AUM/Acre) = TotalAUM \div Acres$
+
+$Stocking(Acres/AUM) = 1 \div Stocking(AUM/Acre)$
+
+$Total AUY = TotalAUM\div 12$
+
+$Acres/AUY= acres \div Total AUY$
+
 For pastures with multiple grazing events in the same year
+
 If unit >1 load in date/year, AggregateStocking(AUM/acre) =sum Stocking(AUM/Acre) values for the year.  And for AggregateStocking(acres/AUM) = 1/summed stocking(Aum/Acre)
