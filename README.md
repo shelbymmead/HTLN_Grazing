@@ -9,7 +9,7 @@ Grazing Year
 Acres
 In date
 Out date
-Actual days on (not sure if you are calculating in R or if this is working properly in access)
+Actual days on 
 Head on
 Head off
 Lbs on
